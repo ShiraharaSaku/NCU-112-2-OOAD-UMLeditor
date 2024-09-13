@@ -1,4 +1,4 @@
-# NCU-112-2-OOAD-UMLeditor
+# NCU_112-2_OOAD_UMLeditor
 OOAD project
 
 部分程式有改過，與圖片不一樣 (像圖中沒有 PanelListner、MenuEvent)
